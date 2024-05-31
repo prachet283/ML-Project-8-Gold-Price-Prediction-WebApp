@@ -23,3 +23,6 @@ The final model provides predictions for gold prices with a certain accuracy. Th
 
 # Contributing
 Contributions are welcome! If you have any improvements or suggestions, feel free to open a pull request or create an issue.
+
+# Deployment
+The application is deployed using Streamlit. You can access it here = https://jctri9vjzwfthgmydf36mc.streamlit.app/
