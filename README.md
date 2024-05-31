@@ -25,4 +25,4 @@ The final model provides predictions for gold prices with a certain accuracy. Th
 Contributions are welcome! If you have any improvements or suggestions, feel free to open a pull request or create an issue.
 
 # Deployment
-The application is deployed using Streamlit. You can access it here = https://jctri9vjzwfthgmydf36mc.streamlit.app/
+The application is deployed using Streamlit. You can access it here = https://ml-project-8-gold-price-prediction-s7ye4yjuuzal5idhfppksf.streamlit.app/
